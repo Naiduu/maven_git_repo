@@ -223,7 +223,7 @@
                         </configuration>
                     </plugin>
 					<!-- Docker Spotify Plugin -->
-				<! --	<plugin>
+				<!--	<plugin>
 						<groupId>com.spotify</groupId>
 						<artifactId>dockerfile-maven-plugin</artifactId>
 						<version>1.4.13</version>
@@ -240,7 +240,7 @@
 							<tag>${project.version}</tag>
 							<skipDockerInfo>true</skipDockerInfo>
 						</configuration>  
-					</plugin>	-- >          
+					</plugin>	-->          
                 </plugins>
             </build>
 
